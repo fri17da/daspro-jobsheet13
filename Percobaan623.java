@@ -22,5 +22,6 @@ public class Percobaan623 {
         System.out.println("Luas persegi panjang adalah "+ L);
         vol=hitungVolume(t, p, l);
         System.out.println("Volume Balok adalah "+vol);
+        
     }
 }
